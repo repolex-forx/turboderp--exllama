@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/turboderp/exllama/commit/3b013cd53c7d413cf99ca04c7c28dd5c95117c0d",
       "git:hexsha": "3b013cd53c7d413cf99ca04c7c28dd5c95117c0d",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-17T14:36:48.018440+00:00"
     }
   ]
 }
